@@ -1,0 +1,23 @@
+{
+  "name": "ouroboros-audio-worker",
+  "version": "0.1.0",
+  "author": "Nao Yonamine <mohayonao@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/mohayonao/ouroboros-audio-worker/issues"
+  },
+  "files": [
+    "README.md",
+    "index.js",
+    "package.json"
+  ],
+  "homepage": "https://github.com/mohayonao/ouroboros-audio-worker/",
+  "keywords": [
+    "worker"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mohayonao/ouroboros-audio-worker.git"
+  }
+}
